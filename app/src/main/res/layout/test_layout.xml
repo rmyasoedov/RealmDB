@@ -73,6 +73,6 @@
         android:gravity="center"
         android:padding="25dp"
         android:text="VIOLET"
-        android:textColor="#000"/>
+        android:textColor="#000" />
 
 </RelativeLayout>

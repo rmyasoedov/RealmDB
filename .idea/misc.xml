@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DEV/RealmDB/app/src/main/res/drawable/bg_splash.xml" value="0.2055" />
+        <entry key="..\:/DEV/RealmDB/app/src/main/res/drawable/ic_logo.xml" value="0.2065" />
         <entry key="..\:/DEV/RealmDB/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/DEV/RealmDB/app/src/main/res/layout/activity_splash.xml" value="0.19895833333333332" />
+        <entry key="..\:/DEV/RealmDB/app/src/main/res/layout/content.xml" value="0.21197916666666666" />
         <entry key="..\:/DEV/RealmDB/app/src/main/res/layout/item_user.xml" value="0.5" />
+        <entry key="..\:/DEV/RealmDB/app/src/main/res/layout/test1_layout.xml" value="0.25" />
         <entry key="..\:/DEV/RealmDB/app/src/main/res/layout/test_layout.xml" value="0.25" />
       </map>
     </option>
